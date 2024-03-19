@@ -1,7 +1,7 @@
 This repository contains SwiftUI sample code to reproduce an issue with the large title scroll behavior on iOS 17.x.
 
 # What is this issue about?
-Presenting a sheet containing a form is causing an issue with the large title scroll behaviour. 
+Presenting a sheet containing a ScrollView is causing an issue with the large title scroll behaviour. 
 
 I was able to reproduce this behaviour with Simulator iOS 17.0.1, iOS 17.4 (both iPhone 15 Pro) and on my physical device with iOS 17.3.1 (iPhone 15 Pro).
 
